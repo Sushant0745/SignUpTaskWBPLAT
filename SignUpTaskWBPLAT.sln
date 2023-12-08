@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignUpTaskWBPLAT", "SignUpTaskWBPLAT\SignUpTaskWBPLAT.csproj", "{C066CABE-946D-4AEE-9451-4DAEE8B12CED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPlatAPIClient", "WebPlatAPIClient\WebPlatAPIClient.csproj", "{39DB7F15-3ADF-4E70-BC00-C2761B0EEB62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C066CABE-946D-4AEE-9451-4DAEE8B12CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C066CABE-946D-4AEE-9451-4DAEE8B12CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C066CABE-946D-4AEE-9451-4DAEE8B12CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C066CABE-946D-4AEE-9451-4DAEE8B12CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39DB7F15-3ADF-4E70-BC00-C2761B0EEB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DB7F15-3ADF-4E70-BC00-C2761B0EEB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DB7F15-3ADF-4E70-BC00-C2761B0EEB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DB7F15-3ADF-4E70-BC00-C2761B0EEB62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FBB416B-2041-4C56-8300-206003170420}
+	EndGlobalSection
+EndGlobal
